@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GENETICS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622950dea92241df69ab86d53866db4471077118")]
 [assembly: System.Reflection.AssemblyProductAttribute("GENETICS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GENETICS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
